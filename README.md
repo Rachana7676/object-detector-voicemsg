@@ -27,5 +27,5 @@ USAGE:
    python main.py
 
 AUTHOR:
-(Write your name)
+(Rachana H R)
 """
